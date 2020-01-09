@@ -3,6 +3,7 @@
 ## AWS Workshop links
 
 https://event-driven-architecture.workshop.aws/getting-started.html
+
 https://mainline.d1x1ku9g0a2648.amplifyapp.com/
 https://ecsworkshop.com/
 https://eksworkshop.com/
