@@ -12,6 +12,7 @@ https://eksworkshop.com/
 
 http://amazonathenahandson.s3-website-us-east-1.amazonaws.com/
 
+http://ml-on-aws.s3-website-us-east-1.amazonaws.com/
 
 
 
