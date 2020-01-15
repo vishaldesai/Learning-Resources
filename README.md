@@ -14,7 +14,11 @@ http://amazonathenahandson.s3-website-us-east-1.amazonaws.com/
 
 http://ml-on-aws.s3-website-us-east-1.amazonaws.com/
 
+https://streaming-analytics.labgui.de/
 
+https://www.amazon-dynamodb-labs.com
+
+http://aws-workshops-1589389556.eu-west-1.elb.amazonaws.com/greengrass-bootcamp/SiteWise/
 
 ## Machine Learning
 
