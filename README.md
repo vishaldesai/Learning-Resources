@@ -22,6 +22,8 @@ http://aws-workshops-1589389556.eu-west-1.elb.amazonaws.com/greengrass-bootcamp/
 
 https://lakeformation.aworkshop.io/
 
+https://master.d3oeug6bezhkq6.amplifyapp.com/
+
 ## Machine Learning
 
 ### AWS Certification
