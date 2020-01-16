@@ -20,6 +20,8 @@ https://www.amazon-dynamodb-labs.com
 
 http://aws-workshops-1589389556.eu-west-1.elb.amazonaws.com/greengrass-bootcamp/SiteWise/
 
+https://lakeformation.aworkshop.io/
+
 ## Machine Learning
 
 ### AWS Certification
