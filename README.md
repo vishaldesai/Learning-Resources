@@ -24,6 +24,9 @@ https://lakeformation.aworkshop.io/
 
 https://master.d3oeug6bezhkq6.amplifyapp.com/
 
+https://www.sagemakerworkshop.com/step/
+
+
 ## Machine Learning
 
 ### AWS Certification
