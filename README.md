@@ -26,6 +26,8 @@ https://master.d3oeug6bezhkq6.amplifyapp.com/
 
 https://www.sagemakerworkshop.com/step/
 
+https://ec2spotworkshops.com/
+
 
 ## Machine Learning
 
