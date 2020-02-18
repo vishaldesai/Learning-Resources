@@ -28,6 +28,8 @@ https://www.sagemakerworkshop.com/step/
 
 https://ec2spotworkshops.com/
 
+https://workshop.aws-management.tools/
+
 
 ## Machine Learning
 
