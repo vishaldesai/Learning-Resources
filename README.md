@@ -30,6 +30,8 @@ https://ec2spotworkshops.com/
 
 https://workshop.aws-management.tools/
 
+https://ai-services.go-aws.com/
+
 
 ## Machine Learning
 
