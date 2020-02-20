@@ -32,6 +32,7 @@ https://workshop.aws-management.tools/
 
 https://ai-services.go-aws.com/
 
+http://d31iotehzjisea.cloudfront.net/en/introduction.html
 
 ## Machine Learning
 
