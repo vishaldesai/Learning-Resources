@@ -34,6 +34,8 @@ https://ai-services.go-aws.com/
 
 http://d31iotehzjisea.cloudfront.net/en/introduction.html
 
+https://wellarchitectedlabs.com/
+
 ## Machine Learning
 
 ### AWS Certification
